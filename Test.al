@@ -1,4 +1,1 @@
-codeunit 50000 "Test 1"
-{
-
-}
+This is my new text
